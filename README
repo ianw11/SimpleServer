@@ -1,0 +1,15 @@
+A quick and dirty implementation of an HTTP server in Java.
+
+BUILDING:
+   $ javac server/*.java
+
+RUNNING:
+   $ java server/Server
+
+
+To close the server, type 'quit' in the terminal.
+
+
+
+
+All requests will send back the hardcoded HTML fragment.  This is just to show what is needed to make an HTTP server.
