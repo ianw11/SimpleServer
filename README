@@ -5,6 +5,7 @@ BUILDING:
 
 RUNNING:
    $ java server/Server
+   Then point your web browser to localhost:4444
 
 
 To close the server, type 'quit' in the terminal.
